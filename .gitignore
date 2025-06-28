@@ -22,3 +22,4 @@ wp-content/themes/uni-theme/*.zip
 wp-content/themes/uni-theme/*.tar
 wp-content/themes/uni-theme/*.map
 wp-content/themes/uni-theme/**/*.DS_Store
+wp-content/plugins/**
