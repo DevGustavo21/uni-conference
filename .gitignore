@@ -13,6 +13,7 @@ wp-content/themes/*
 
 !wp-content/themes/uni-theme/
 !wp-content/themes/uni-theme/**
+!wp-content/plugins/advanced-custom-fields-pro
 
 # Opcional: ignora archivos innecesarios dentro del tema
 wp-content/themes/uni-theme/node_modules/
@@ -22,4 +23,3 @@ wp-content/themes/uni-theme/*.zip
 wp-content/themes/uni-theme/*.tar
 wp-content/themes/uni-theme/*.map
 wp-content/themes/uni-theme/**/*.DS_Store
-wp-content/plugins/**
