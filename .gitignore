@@ -1,0 +1,24 @@
+# Ignora todo por defecto
+*
+
+# Pero no ignores el archivo .gitignore
+!.gitignore
+
+# Incluye solo el contenido del tema "uni-theme"
+!wp-content/
+wp-content/*
+
+!wp-content/themes/
+wp-content/themes/*
+
+!wp-content/themes/uni-theme/
+!wp-content/themes/uni-theme/**
+
+# Opcional: ignora archivos innecesarios dentro del tema
+wp-content/themes/uni-theme/node_modules/
+wp-content/themes/uni-theme/*.log
+wp-content/themes/uni-theme/*.sql
+wp-content/themes/uni-theme/*.zip
+wp-content/themes/uni-theme/*.tar
+wp-content/themes/uni-theme/*.map
+wp-content/themes/uni-theme/**/*.DS_Store
